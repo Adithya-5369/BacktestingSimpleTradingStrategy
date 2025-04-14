@@ -75,6 +75,13 @@ BacktestingSimpleTradingStrategy/
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
 ```
---- 
+---
+
+## 🛡 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this code with attribution.
+
+---
 
 By: Adithya Sai Srinivas
